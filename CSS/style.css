@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'Digital';
+    src: url('../fonts/calculator/Calculator.ttf') format('truetype');
+}
 * {
     margin: 0;
     padding: 0;
@@ -33,6 +37,7 @@ table {
     font-size: 32px;
     font-weight: bolder;
     margin-bottom: 20px;
+    font-family: 'Digital';
     
 }
 
